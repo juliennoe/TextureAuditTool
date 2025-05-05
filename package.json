@@ -1,0 +1,21 @@
+{
+  "name": "com.juliennoe.textureaudittool",
+  "version": "1.0.0",
+  "displayName": "Texture Audit Tool",
+  "description": "A Unity Editor tool for auditing textures and sprites, analyzing mipmaps, resolution, atlas membership, addressables, and more.",
+  "unity": "2023.1",
+  "author": {
+    "name": "Julien Noé",
+    "url": "https://github.com/juliennoe"
+  },
+  "dependencies": {
+    "com.unity.addressables": "1.18.19"
+  },
+  "keywords": [
+    "editor",
+    "tools",
+    "disk usage",
+    "assets",
+    "analysis"
+  ]
+}
